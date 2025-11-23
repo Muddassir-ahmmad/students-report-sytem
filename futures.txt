@@ -1,0 +1,8 @@
+update marks 
+update students 
+delte students 
+delete sub
+add students 
+serach studnts 
+add new subject 
+
