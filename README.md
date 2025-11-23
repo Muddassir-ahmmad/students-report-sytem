@@ -1,4 +1,4 @@
-🔥 GitHub Project Description (copy-paste ready)
+
 📌 Student Management System – C++ (Console Based)
 
 This project is a menu-driven Student Management System built in C++.
